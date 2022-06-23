@@ -58,7 +58,7 @@ select{
     background: #2c090900;
     appearance: none;
     position: relative;
-    background-position-y: 3px;
+    background-position-y:3px;
     
     background-image: url(triangle.png);
     background-size: 9px;
