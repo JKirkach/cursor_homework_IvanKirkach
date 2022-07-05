@@ -123,7 +123,7 @@ h5 {
     margin-top: 71px;
     gap: 25px;
     display: grid;
-    max-width: 58%;
+    max-width: 1110px;
     
 }
 
@@ -219,7 +219,7 @@ h5 {
     margin-top: 30px;
     padding-top: 51px;
     display: grid;
-    max-width: 58%;
+    max-width: 1110px;
     background: #FFFFFF;
     border-radius: 16px;
     grid-template-columns: repeat(4, 1fr);
@@ -270,7 +270,7 @@ h5 {
     
 }
 .you_may_like{
-    max-width: 58%;
+    max-width: 1110px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 30px;
