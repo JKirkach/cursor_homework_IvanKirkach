@@ -116,6 +116,7 @@ h5 {
     color: #FFFFFF;
     margin-top: 34px;
     cursor: pointer;
+    border: none;
 }
 
 .collections {
